@@ -38,7 +38,7 @@ function greet(name: string): string {
 }
 
 console.log(greet(42)); 
-// ❌ Error: Argument of type 'number' is not assignable to parameter of type 'string'
+// ❌ Error: Argument of type 'number' is not assignable to parameter of type 'string' ```
 ###✅ Why Use TypeScript?
 Helps prevent bugs early
 
